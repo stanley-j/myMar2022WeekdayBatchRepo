@@ -12,7 +12,7 @@
 	     
 	     Create ci/cd of a Java project with jenkins and maven and which is deploy to on top of tomcat with SCM poll checkout<br>
 	
-	     Regards
+	     Regards<br>
 	     STANLEY ATHISH.J</h2>
   
 </body>
