@@ -12,7 +12,7 @@
 	     I have done my task which you have shared in the traning period<br>
 		<br>
 	     
-	     Create ci/cd of a Java project with jenkins and maven and which is deploy to on top of tomcat with SCM poll checkout<br>
+	     Create CI/CD of a Java project with jenkins and maven and which is deploy to on top of tomcat with SCM poll checkout<br>
 		<br>
 	
 	     Regards<br>
